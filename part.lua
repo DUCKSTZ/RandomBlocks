@@ -8,7 +8,7 @@ local Material = {
     [3] = Enum.Material.Ice,
     [4] = Enum.Material.Foil,
     [5] = Enum.Material.Marble,
- -- if you want to add more do it like [6] = Enum.Material.[Material here]
+ -- if you want to add more do it like [6] = Enum.Material.[Material here],
 }
 
 local IcePhysicalProp = { -- change these around if you'd like
